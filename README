@@ -1,4 +1,7 @@
 Install and Run on Tomcat 9 Server
 
+URL of application after deploying on server
+http://localhost:8080/Spring5MVCAnnotation/employee/get/1
+
 Reference:
 https://howtodoinjava.com/spring5/webmvc/spring-dispatcherservlet-tutorial/
