@@ -1,0 +1,3 @@
+# SpringMVCAnnotation-WebServlet
+
+The project provides sample application using Spring AbstractAnnotationConfigDispatcherServletInitializer.
